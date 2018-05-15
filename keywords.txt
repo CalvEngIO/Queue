@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map for Mux
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Queue	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+isEmpty	KEYWORD2
+enqueue	KEYWORD2
+dequeue	KEYWORD2
+front	KEYWORD2
+size	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
